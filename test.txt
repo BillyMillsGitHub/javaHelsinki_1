@@ -1,1 +1,1 @@
-This is a test file ensure proper function of GitHub repository.
+This is a test file to ensure proper functionality of GitHub repository.
